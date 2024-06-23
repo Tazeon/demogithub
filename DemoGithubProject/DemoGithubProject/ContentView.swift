@@ -15,6 +15,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Hello, world!")
             Text("This is Github Demo")
+            Text("Change file clone")
         }
         .padding()
     }
